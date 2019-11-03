@@ -32,3 +32,4 @@ pe_31 <- function(coins, target){
 }
 
 pe_31(coins = c(1, 2, 5), target = 5) # 4
+pe_31(coins = c(1, 2, 5, 10, 20, 50, 100, 200), target = 200) # 73682
